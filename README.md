@@ -186,11 +186,17 @@ directory.
 Bank-Marketing-Classification/
 │
 ├── app.py
-├── requirements.txt
 ├── README.md
+├── requirements.txt
 ├── test_data.csv
 │
 └── models/
+    ├── logistic_regression.py
+    ├── decision_tree.py
+    ├── k_nearest_neighbors.py
+    ├── gaussian_naive_bayes.py
+    ├── random_forest.py
+    │
     ├── logistic_regression.pkl
     ├── decision_tree.pkl
     ├── k-nearest_neighbors.pkl
