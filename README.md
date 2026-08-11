@@ -182,7 +182,6 @@ directory.
 
 ## 8. Project Structure
 
-```text
 Bank-Marketing-Classification/
 │
 ├── app.py
@@ -196,6 +195,7 @@ Bank-Marketing-Classification/
     ├── k-nearest_neighbors.pkl
     ├── gaussian_naive_bayes.pkl
     └── random_forest.pkl
+
 
 ## 10. GitHub Repository
 
