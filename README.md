@@ -196,3 +196,16 @@ Bank-Marketing-Classification/
     ├── k-nearest_neighbors.pkl
     ├── gaussian_naive_bayes.pkl
     └── random_forest.pkl
+
+## 10. GitHub Repository
+
+GitHub Repository:
+
+https://github.com/Asma2442/ML-Assignment-2-Bank-Marketing
+
+
+## 11. Streamlit Application
+
+Live Streamlit Application:
+
+https://ml-assignment-2-bank-marketing-fkf8kn7skqpm5wa7yt2p58.streamlit.app/
